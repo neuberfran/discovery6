@@ -43,4 +43,10 @@ FT6236 touch driver package
 
 #### Images:
 
-![Test Image 4]
+![Test Image 2](https://github.com/neuberfran/discovery6/blob/main/Screen.jpg)
+
+![Test Image 3](https://github.com/neuberfran/discovery6/blob/main/OCW.jpg)
+
+![Test Image 4](https://github.com/neuberfran/discovery6/blob/main/OcwInAndroid12.jpg)
+
+
