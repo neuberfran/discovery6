@@ -21,6 +21,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 STM32F469 DISCOVERY KIT
 
 i2c - External Driver named SmartDrive (Based on IC VNH2SP30):
+
 Link do buy: http://www.mindsensors.com/rpi/76-smartdrive-high-current-motor-controller
 https://github.com/neuberfran/SmartDrive/blob/master/imgSmartDrive.png
 
