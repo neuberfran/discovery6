@@ -18,10 +18,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-
-
-
-## Hardware Used
+# Hardware Used
 
 STM32F469 DISCOVERY KIT (***)
 
@@ -38,7 +35,7 @@ Breadboard & wire jumpers (*** Look to SDA, SCL Connections)
 
 (***) photos below
 
-## Software Used
+# Software Used
 
 RT-Thread OS 4.1.1 build Aug 15 2022 
 
