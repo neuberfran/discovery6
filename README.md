@@ -51,7 +51,7 @@ RT-Thread Studio - v2.2.5
 FT6236 touch driver package
 
 
-## Images:
+# Images:
 
 ![Test Image 2](https://github.com/neuberfran/discovery6/blob/main/Screen.jpg)
 
