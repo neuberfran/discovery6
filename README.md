@@ -53,7 +53,9 @@ FT6236 touch driver package
 
 # Images:
 
-![Test Image 2](https://github.com/neuberfran/discovery6/blob/main/Screen.jpg)
+![Test Image 1](https://github.com/neuberfran/discovery6/blob/main/photo101.jpg)
+
+![Test Image 2](https://github.com/neuberfran/discovery6/blob/main/photo99.jpg)
 
 ![Test Image 3](https://github.com/neuberfran/discovery6/blob/main/PHOTO01.jpg)
 
