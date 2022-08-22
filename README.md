@@ -5,6 +5,8 @@
  
  2) As per photo/github, I already have the project running on Android 12 (App OCW). Of course, the board will need to have an internet connection for calls/responses to/from the backend/firebase:
  https://github.com/neuberfran/OpenCloseWindow
+ 
+ 3) In day 2022-08-21. https://github.com/neuberfran/discovery7 When I create File ui_events.cpp And I made the call and event functions for the OCW project
 
 ## Video
 
