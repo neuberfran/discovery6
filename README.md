@@ -16,22 +16,26 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/IEpiTdXtcsw/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-## Hardware Used
 
-STM32F469 DISCOVERY KIT
+
+# Hardware Used
+
+STM32F469 DISCOVERY KIT (***)
 
 i2c - External Driver named SmartDrive (Based on IC VNH2SP30):
 
 Link do buy: http://www.mindsensors.com/rpi/76-smartdrive-high-current-motor-controller
 https://github.com/neuberfran/SmartDrive/blob/master/imgSmartDrive.png
 
-Two used car windshield motors
+Two used car windshield motors (***)
 
-Power Supply 12V 20A
+Power Supply 12V 20A (***)
 
-Breadboard & wire jumpers
+Breadboard & wire jumpers (*** Look to SDA, SCL Connections)
 
-## Software Used
+(***) photos below
+
+# Software Used
 
 RT-Thread OS 4.1.1 build Aug 15 2022 
 
@@ -47,12 +51,18 @@ RT-Thread Studio - v2.2.5
 FT6236 touch driver package
 
 
-## Images:
+# Images:
 
 ![Test Image 2](https://github.com/neuberfran/discovery6/blob/main/Screen.jpg)
 
-![Test Image 3](https://github.com/neuberfran/discovery6/blob/main/OCW.jpg)
+![Test Image 3](https://github.com/neuberfran/discovery6/blob/main/PHOTO01.jpg)
 
-![Test Image 4](https://github.com/neuberfran/discovery6/blob/main/OcwInAndroid12.jpg)
+![Test Image 4](https://github.com/neuberfran/discovery6/blob/main/PHOTO02.jpg)
+
+![Test Image 5](https://github.com/neuberfran/discovery6/blob/main/PHOTO03.jpg)
+
+![Test Image 6](https://github.com/neuberfran/discovery6/blob/main/OCW.jpg)
+
+![Test Image 7](https://github.com/neuberfran/discovery6/blob/main/OcwInAndroid12.jpg)
 
 
