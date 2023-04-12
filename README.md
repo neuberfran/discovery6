@@ -39,7 +39,7 @@ Power Supply 12V 20A (***)
 
 Breadboard & wire jumpers (*** Look to SDA, SCL Connections)
 
-(***) photos below
+(***) = photos below
 
 # Software Used
 
